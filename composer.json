@@ -1,0 +1,14 @@
+{
+    "name": "tomasnorre/renovate-poc-selfhosted",
+    "description": "This is a demo repo for testing renovate",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tomas Norre Mikkelsen",
+            "email": "mail@7th-green.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.11"
+    }
+}
