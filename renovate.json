@@ -6,6 +6,11 @@
       "matchManagers": ["composer"],
       "matchUpdateTypes": ["minor", "patch"],
       "groupName": "composer minor and patch updates"
+    },
+    {
+      "matchManagers": ["npm"],
+      "matchUpdateTypes": ["minor", "patch"],
+      "groupName": "npm minor and patch updates"
     }
   ]
 }
