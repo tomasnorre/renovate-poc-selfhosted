@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "monolog/monolog": "2.11.1",
+        "monolog/monolog": "3.12.1",
         "ramsey/uuid": "4.9.0"
     }
 }
